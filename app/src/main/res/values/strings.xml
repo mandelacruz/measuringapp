@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Rice Grain Measuring App</string>
+    <string name="app_description">This application is designed to measure the size and shape of milled rice grains using the phone\'s camera and advanced image processing algorithms to provide a convenient and accurate method for analyzing rice grain quality.</string>
+    <string name="app_title">RICE GRAIN MEASURING APP</string>
+    <string name="logo_desc">Rice Grain Measuring App Logo</string>
+    <string name="btn_start">Get Started</string>
+    <string name="btn_history">Analysis History</string>
+    <!--  Analysis page  -->
+    <string name="btn_startanalysis">Start Analysis</string>
+    <string name="lbl_researcher">Researcher Name</string>
+    <string name="lbl_ecosystem">Ecosystem</string>
+    <string name="lbl_samplenum">Sample Number</string>
+    <string name="title_activity_start">StartActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--  Analysis History label  -->
+    <string name="analysis_id_text">Analysis ID: %s</string>
+    <string name="average_length_text">Average Length: %.2f mm</string>
+    <string name="average_width_text">Average Width: %.2f mm</string>
+    <string name="average_shape_text">Average Shape: %.2f</string>
+
+    <!--  Analysis Cursor Adapter  -->
+    <string name="analysisid_text">ANALYSIS %d</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
